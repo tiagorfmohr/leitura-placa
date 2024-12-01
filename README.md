@@ -17,6 +17,10 @@ https://github.com/user-attachments/assets/58d8df7f-9011-4c80-abe1-e148b600cf62
 
 ## Autores
 
+#### ALECHANDRE FELIPHE LAMONATTO
+#### LUAN ZUFFO
+#### TIAGO REINALDO FULBER MOHR
+
 - [@AleFeliphe](https://github.com/AleFeliphe)
 - [@TiagoRFM](https://github.com/tiagorfmohr)
 - [@theluanz](https://github.com/theluanz)
